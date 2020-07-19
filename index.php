@@ -63,40 +63,41 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <picture>
+          <!-- <picture>
              <source 
                 media="(min-width: 650px)"
                 srcset="assets/images/logo.png" >
              <img style="width: 77px; height: 60px; margin-right: 13px;">
-          </picture>
-          <a class="navbar-brand" href="index.php" style="margin-bottom: 8px;"><h2>Virtuaqaptive</h2></a>
+          </picture> -->
+          <img src="assets/images/logo.jpg" style="width: 200px; height: 60px; margin-left: 15px;">
+          <!-- <a class="navbar-brand" href="index" style="margin-bottom: 8px;"><h2>Virtuaqaptive</h2></a> -->
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="index.php">Home
+                <a class="nav-link" href="index">Home
                   <span class="sr-only">(current)</span>
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="services.php">Services</a>
+                <a class="nav-link" href="services">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="products.php">Products</a>
+                <a class="nav-link" href="products">Products</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="resources.php">Resources</a>
+                <a class="nav-link" href="resources">Resources</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="career.php">Careers</a>
+                <a class="nav-link" href="career">Careers</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.php">About Us</a>
+                <a class="nav-link" href="about">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contact us</a>
+                <a class="nav-link" href="contact">Contact us</a>
               </li>
             </ul>
           </div>
@@ -116,7 +117,7 @@ https://templatemo.com/tm-545-finance-business
                   <h6>Our business model</h6>
                   <h4>VIRTUAL CAPTIVE MODEL</h4>
                   <p>Virtual captive is a highly cost efficient, innovative and an open One Team model for agile methodology teams to brings out the best while eliminating the drawbacks of the sub models - Traditional Outsourcing & Captive centres</p>
-                  <!-- <a href="about.php" class="filled-button">learn more</a> -->
+                  <!-- <a href="about" class="filled-button">learn more</a> -->
                 </div>
             </div>
           </div>
@@ -127,7 +128,7 @@ https://templatemo.com/tm-545-finance-business
                   <h6>we are ready to help you</h6>
                   <h4>PRODUCT DEVELOPMENT</h4>
                   <p>A platform that involves in developing a product from concept or idea, through market release and beyond. In other words, product development incorporates a product’s entire journey</p>
-                  <!-- <a href="contact.php" class="filled-button">contact us</a> -->
+                  <!-- <a href="contact" class="filled-button">contact us</a> -->
                 </div>
             </div>
           </div>
@@ -139,7 +140,7 @@ https://templatemo.com/tm-545-finance-business
                   <h6>we are here to support you</h6>
                   <h4>SKILL INDIA</h4>
                   <p>A social initiative by <b>VQ</b> to inculcate technical skills in people desiring of pursuing their career in the field of technology. A technical journey which will make people industry ready</p>
-                  <!-- <a href="services.php" class="filled-button">our services</a> -->
+                  <!-- <a href="services" class="filled-button">our services</a> -->
                 </div>
             </div>
           </div>
@@ -158,7 +159,7 @@ https://templatemo.com/tm-545-finance-business
             <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
           </div>
           <div class="col-md-4">
-            <a href="contact.php" class="border-button">Contact Us</a>
+            <a href="contact" class="border-button">Contact Us</a>
           </div>
         </div>
       </div>
@@ -179,7 +180,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="down-content">
                 <h4>Product Development</h4>
                 <p>A platform that involves in developing a product from concept or idea, through market release and beyond. In other words, product development incorporates a product’s entire journey</p>
-                <!-- <a href="product_dev.php" class="filled-button">Read More</a> -->
+                <a href="http://localhost/virtuaqaptive/services#prod" class="filled-button">Read More</a>
               </div>
             </div>
           </div>
@@ -189,7 +190,29 @@ https://templatemo.com/tm-545-finance-business
               <div class="down-content">
                 <h4>Skill India</h4>
                 <p>A social initiative by <b>VQ</b> to inculcate technical skills in people desiring of pursuing their career in the field of technology. A technical journey which will make people industry ready</p>
-                <!-- <a href="skill_india.php" class="filled-button">Read More</a> -->
+                <a href="http://localhost/virtuaqaptive/products#tabs-3" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="service-item">
+              <br><br>
+              <img src="assets/images/bench.jpg" alt="" height="370px">
+              <div class="down-content">
+                <h4>India's Bench Management</h4>
+                <p>A platform that involves in developing a product from concept or idea, through market release and beyond.<br> In other words, product development incorporates a product’s entire journey</p>
+                <a href="http://localhost/virtuaqaptive/services#bench" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="service-item">
+              <br><br>
+              <img src="assets/images/scrum.jpg" alt="" height="370px">
+              <div class="down-content">
+                <h4>Scrum Teams</h4>
+                <p>A collection of individuals working together to deliver the required product increments. The Scrum Team share different tasks and responsibilities related to the delivery of the product. Each role are closely inter-related.</p>
+                <a href="http://localhost/virtuaqaptive/services#scrum" class="filled-button">Read More</a>
               </div>
             </div>
           </div>
@@ -269,7 +292,7 @@ https://templatemo.com/tm-545-finance-business
                     <p><b>VQ</b> is a venture which is a new age advisory and technology services company that uses its innovative ‘Virtual Captive’ delivery model for delivering IT advisory and technology services to its customers.
                       <br>
                       Our team has several industry experts who have experience of more than a decade in the IT industry consisting of both traditional third party IT services company and IT Captive companies. We have understood the benefits and limitations of both of these IT service delivery models ....</p>
-                    <a href="about.php" class="filled-button">Read More</a>
+                    <a href="about" class="filled-button">Read More</a>
                   </div>
                 </div>
               </div>
@@ -340,7 +363,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
           <div class="col-md-12">
             <div class="contact-form">
-              <form id="contact" action="send_form_mail.php" method="POST">
+              <form id="contact" action="send_form_mail" method="POST">
                 <div class="row">
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
@@ -382,19 +405,19 @@ https://templatemo.com/tm-545-finance-business
             <div class="owl-partners owl-carousel">
             
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="1" alt="1">
+                <img src="assets/images/bottom1.jpg" title="1" alt="1" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="2" alt="2">
+                <img src="assets/images/bottom2.jpg" title="2" alt="2" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="3" alt="3">
+                <img src="assets/images/bottom3.jpg" title="3" alt="3" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="4" alt="4">
+                <img src="assets/images/bottom4.jpg" title="4" alt="4" height="220px;">
               </div>
 
             </div>

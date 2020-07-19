@@ -63,40 +63,41 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <picture>
+         <!--  <picture>
              <source 
                 media="(min-width: 650px)"
                 srcset="assets/images/logo.png" >
              <img style="width: 77px; height: 60px; margin-right: 13px;">
-          </picture>
-          <a class="navbar-brand" href="index.php" style="margin-bottom: 8px;"><h2>Virtuaqaptive</h2></a>
+          </picture> -->
+          <img src="assets/images/logo.jpg" style="width: 200px; height: 60px; margin-left: 15px;">
+          <!-- <a class="navbar-brand" href="index" style="margin-bottom: 8px;"><h2>Virtuaqaptive</h2></a> -->
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.php">Home
+                <a class="nav-link" href="index">Home
                   <span class="sr-only">(current)</span>
                 </a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="services.php">Services</a>
+                <a class="nav-link" href="services">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="products.php">Products</a>
+                <a class="nav-link" href="products">Products</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="resources.php">Resources</a>
+                <a class="nav-link" href="resources">Resources</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="career.php">Careers</a>
+                <a class="nav-link" href="career">Careers</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.php">About Us</a>
+                <a class="nav-link" href="about">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contact us</a>
+                <a class="nav-link" href="contact">Contact us</a>
               </li>
             </ul>
           </div>
@@ -228,13 +229,13 @@ https://templatemo.com/tm-545-finance-business
             <div class="more-info-content">
               <div class="row">
                 <div class="col-md-6 align-self-center">
-                  <div class="right-content">
+                  <div class="right-content" id="bench">
                     <!-- <span>our solid background in technology</span> -->
                     <h2>INDIA'S BENCH EXCHANGE MANAGEMENT</em></h2>
                     <p>
                       The key is to maintain optimal bench rate, it enables to procure new business,gets in flexibility to pitch in resources to critical projects with in the TAT, Employee & organization get balanced time to develop skills & enhance capability between projects.
                       <br><br>
-                      India's bench exchange management is an initaitive by VQ which would create a large resource pool across the industry so that the companies not need to waste their resources by firing them.
+                      India's bench exchange management is an initaitive by <b>VQ</b> which would create a large resource pool across the industry so that the companies not need to waste their resources by firing them.
                       <br>
                       The compnaies can register their resources with us and we will look forward to associate that resource with some other companies who are need of the resources. This will not only help the companies but also the resources as they won't have a layoff in their career.
                     </p>
@@ -261,16 +262,16 @@ https://templatemo.com/tm-545-finance-business
             <div class="more-info-content">
               <div class="row">
                 <div class="col-md-7 align-self-center">
-                  <div class="right-content">
+                  <div class="right-content" id="scrum">
                     <h2>SRUM TEAMS</h2>
                       
                        <p>
                         A collection of individuals (typically between five and nine members) working together to deliver the required product increments. The Scrum framework encourages a high level of communication among team members, so that the team can:
                          <br>1. Follow a common goal
-                         <br>Adhere the same norms and rules
-                         <br>Show respect to each other
+                         <br>2. Adhere the same norms and rules
+                         <br>3. Show respect to each other
                        <p>
-                       The Scrum Team share different tasks and responsibilities related to the delivery of the product. Each role are closely inter-related. It is recommended for Scrum team members work together in the same location whenever possible. Let’s take a look at each of these roles in terms of their responsibilities, authority, and characteristics.
+                       The Scrum Team share different tasks and responsibilities related to the delivery of the product. Each role are closely inter-related. It is recommended for Scrum team members work together in the same location whenever possible.
                      </p>
                         
                    
@@ -279,7 +280,7 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-5">
                   <div class="left-image">
-                    <img src="assets/images/scrum.jpg" alt="" height="300px" style="margin-top: 140px">
+                    <img src="assets/images/scrum.jpg" alt="" height="300px" style="margin-top: 90px">
                   </div>
                 </div>
               </div>
@@ -296,13 +297,13 @@ https://templatemo.com/tm-545-finance-business
             <div class="more-info-content">
               <div class="row">
                 <div class="col-md-6 align-self-center">
-                  <div class="right-content">
+                  <div class="right-content" id="prod">
                     <!-- <span>our solid background in technology</span> -->
                     <h2>PRODUCT DEVELOPMENT</h2>
-                      A platform that involves in developing a product from concept or idea, through market release and beyond. In other words, product development incorporates a product’s entire journey.
+                      <p>A platform that involves in developing a product from concept or idea, through market release and beyond. In other words, product development incorporates a product’s entire journey.</p>
                       <h4><em><br>Agile Methodology</em></h4>
                       <br>
-                      Agile product development is another term you might hear often. This simply refers to the familiar product development concept we described in the introduction—all steps involved in delivering a product to the market—but including the principles of agile software development, such as rapid iteration based on user feedback.The benefit of the agile framework is that it allows an organization to shorten the cycle from brainstorming through actually launching a product—because the product team intentionally pushes out versions of the product (starting with its early-stage MVP) much more quickly, and with much fewer updates and improvements in each release. This allows for the team to enlist the feedback of actual users to incrementally make the product better.
+                      <p>Agile product development is another term you might hear often. This simply refers to the familiar product development concept we described in the introduction—all steps involved in delivering a product to the market—but including the principles of agile software development, such as rapid iteration based on user feedback.The benefit of the agile framework is that it allows an organization to shorten the cycle from brainstorming through actually launching a product—because the product team intentionally pushes out versions of the product (starting with its early-stage MVP) much more quickly, and with much fewer updates and improvements in each release. This allows for the team to enlist the feedback of actual users to incrementally make the product better.</p>
                     <!-- <a href="" class="filled-button">Read More</a> -->
                   </div>
                 </div>
@@ -319,26 +320,29 @@ https://templatemo.com/tm-545-finance-business
     </div>
 
     <br><br>
-    <div class="partners contact-partners">
+    
+    <div class="partners">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="owl-partners owl-carousel">
-               <div class="partner-item">
-                <img src="assets/images/logo.png" title="1" alt="1">
+            
+              <div class="partner-item">
+                <img src="assets/images/bottom1.jpg" title="1" alt="1" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="2" alt="2">
+                <img src="assets/images/bottom2.jpg" title="2" alt="2" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="3" alt="3">
+                <img src="assets/images/bottom3.jpg" title="3" alt="3" height="220px;">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/logo.png" title="4" alt="4">
+                <img src="assets/images/bottom4.jpg" title="4" alt="4" height="220px;">
               </div>
+
             </div>
           </div>
         </div>
