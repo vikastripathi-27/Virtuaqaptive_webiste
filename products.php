@@ -175,28 +175,6 @@ https://templatemo.com/tm-545-finance-business
                   The link to this product is <a href="#"><img src="assets/images/playstore.png" height="125px"></a>
                 </p>
               </article>
-              <article id='tabs-3'>
-                <img src="assets/images/skill.jpeg" alt="" height="340px" width="350px" style="margin-left: 140px">
-                <h4>Skill India</h4>
-                <p>
-                  A social initiative by <b>VQ</b> to inculcate technical skills in people desiring of pursuing their career in the field of technology. A technical journey which will make people industry ready.
-                  <br>
-                  Our motto is to help the untrained people of our country by providing them with different resources in the field of technology and thereby providing them with industry training and helping them kickstart their career in their preferred field.
-                  <br>
-                  Each trainee in Skill India will be provided with a mentor from the industry who will guide them towards getting acquianted with the skills required in the industry.
-                  <br>
-                  There are two roles available in Skill India initiative by VQ:
-                  <br>
-                  1. Mentor
-                  <br>
-                  2. Student Trainee
-                  <br>
-                </p>
-                <br>
-                  All the cost of training to the Student trainees will be <b>beared by VQ.</b>
-                  <br>
-                  For joining us at Skill India as a mentor or as a trainee contact us at <b>info@virtualcaptiveunit.com</b>
-              </article>
               <article id='tabs-4'>
                 <img src="assets/images/clean.jpg" alt="" height="340px" width="330px" style="margin-left: 140px">
                 <h4>Clean & Green India</h4>
