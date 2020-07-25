@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="TemplateMo">
+    <meta name="description" content=" Virtuaqaptive Consulting Services - Services">
+    <meta name="keyword" content="virtuaqaptive, virtuaqaptive consulting services, Virtuaqaptive Consulting Services, Consulting Services, Virtual Captive, Bangalore, Karnataka, Software, Product, webste, bench management, corona chain tracker">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <title>Virtuaqaptive Consulting Services | Services</title>

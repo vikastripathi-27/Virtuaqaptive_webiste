@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="TemplateMo">
+    <meta name="description" content=" Virtuaqaptive Consulting Services - Resources">
+    <meta name="keyword" content="virtuaqaptive, virtuaqaptive consulting services, Virtuaqaptive Consulting Services, Consulting Services, Virtual Captive, Bangalore, Karnataka, Software, Product, webste, bench management, corona chain tracker">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <title>Virtuaqaptive Consulting Services | Resources</title>
@@ -53,7 +53,7 @@ https://templatemo.com/tm-545-finance-business
             <ul class="right-icons">
               <li><a href="https://www.facebook.com/virtua.qaptive"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://twitter.com/VQaptive"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="https://www.linkedin.com/in/virtua-qaptive-a8431b175/"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="https://linkedin.com/company/virtuaqaptive-consulting-services"><i class="fa fa-linkedin"></i></a></li>
             </ul>
           </div>
         </div>
