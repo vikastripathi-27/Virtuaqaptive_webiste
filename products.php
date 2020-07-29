@@ -131,7 +131,7 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-7">
             <section class='tabs-content'>
                 <article id='tabs-3'>
-                <img src="assets/images/skill.jpeg" alt="" height="340px" width="350px" style="margin-left: 140px">
+                <img src="assets/images/skill.jpeg" alt="" height="340px" width="350px">
                 <h4>Skill India</h4>
                 <p>
                   A social initiative by <b>VQ</b> to inculcate technical skills in people desiring of pursuing their career in the field of technology. A technical journey which will make people industry ready.
@@ -164,7 +164,7 @@ https://templatemo.com/tm-545-finance-business
                 </p>
               </article>
               <article id='tabs-2'>
-                <img src="assets/images/cct_mobile.png" alt="" height="400px" width="260px" style="margin-left: 140px">
+                <img src="assets/images/cct_mobile.png" alt="" height="400px" width="260px" style="margin-left: 10px">
                 <h4>Corona Chain Tracker mobile app</h4>
                 <p>
                   The Corona Chain Tracker application is a one-stop android application for providing users all the details/stats related to COVID-19 of all over India.
@@ -176,7 +176,7 @@ https://templatemo.com/tm-545-finance-business
                 </p>
               </article>
               <article id='tabs-4'>
-                <img src="assets/images/clean.jpg" alt="" height="340px" width="330px" style="margin-left: 140px">
+                <img src="assets/images/clean.jpg" alt="" height="340px" width="330px" style="margin-left: 10px">
                 <h4>Clean & Green India</h4>
                 <p>
                   Clean & Green India is an initiative by <b>VQ</b> inspired by Swachh Bharat Abhiyan to make each & every corner of our country clean and no dirt should be found anyhwere in any region of India.We are working on an indigenous software to make India clean and green.We would be able generate 1 million job works in next 10 years.

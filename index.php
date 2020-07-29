@@ -199,8 +199,8 @@ https://templatemo.com/tm-545-finance-business
               <br><br>
               <img src="assets/images/bench.jpg" alt="" height="370px">
               <div class="down-content">
-                <h4>India's Bench Management</h4>
-                <p>A platform that involves in developing a product from concept or idea, through market release and beyond.<br> In other words, product development incorporates a product’s entire journey</p>
+                <h4>India's Bench Exchange Management</h4>
+                <p>India's bench exchange management is an initaitive by <b>VQ</b> which would create a large resource pool across the industry so that the companies not need to waste their resources by firing them.</p>
                 <a href="http://localhost/virtuaqaptive/services#bench" class="filled-button">Read More</a>
               </div>
             </div>
@@ -302,7 +302,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="testimonials">
+    <!-- <div class="testimonials">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -351,7 +351,7 @@ https://templatemo.com/tm-545-finance-business
         </div>
       </div>
     </div>
-
+ -->
     <div class="callback-form">
       <div class="container">
         <div class="row">

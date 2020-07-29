@@ -257,7 +257,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div> -->
 
-    <div class="testimonials">
+    <!-- <div class="testimonials">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -305,7 +305,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
   
     <div class="partners">

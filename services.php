@@ -138,7 +138,7 @@ https://templatemo.com/tm-545-finance-business
                       <br><br>
                        Virtual captives are a hybrid outsourcing model where a local, third-party vendor will set up a captive center on behalf of a company, providing them all the necessary technical infrastructure, talent, office resources etc and still give the client full control over how everything works and is managed.
                       <br><br> 
-                      We at VQ will help you set up your business in the different captive centres.
+                      We at <b>VQ</b> will help you set up your business in the different captive centres.
                     </p>
                     <!-- <a href="" class="filled-button">Read More</a> -->
                   </div>
@@ -172,7 +172,7 @@ https://templatemo.com/tm-545-finance-business
                       Professional services is often referred as “paid for what you do".
                       Many of the small product development companies can't afford to setup their Professional services which can result into the downfall of their growth demand services.
                       <br>
-                      VQ helps such companies to setup their on demand Professional services.
+                      <b>VQ</b> helps such companies to setup their on demand Professional services.
                       
                     </p>
                     <!-- <a href="" class="filled-button">Read More</a> -->
@@ -204,7 +204,7 @@ https://templatemo.com/tm-545-finance-business
                     <p>
                       The ideal outsourcing model for businesses that are focused on delivering the desired output no matter what is takes to get the job done.
                       <br>
-                      VQ takes pride in its staff’s ability to accomplish long-term projects. However, the greater accomplishment of our professionals lies in their capacity to finish a project within a specific time frame.For our project-based outsourcing, we take into consideration the client’s requirements before we set out to work: we take those requirements and use them as a basis for creating the working plan. Then, we implement the plan and produce the output within the provided time frame. By outsourcing, companies could free up resources (i.e., cash, personnel, facilities) that can be redirected to existing tasks or new projects that deliver higher yields for the company than the functions that had been outsourced.
+                      <b>VQ</b> takes pride in its staff’s ability to accomplish long-term projects. However, the greater accomplishment of our professionals lies in their capacity to finish a project within a specific time frame.For our project-based outsourcing, we take into consideration the client’s requirements before we set out to work: we take those requirements and use them as a basis for creating the working plan. Then, we implement the plan and produce the output within the provided time frame. By outsourcing, companies could free up resources (i.e., cash, personnel, facilities) that can be redirected to existing tasks or new projects that deliver higher yields for the company than the functions that had been outsourced.
                     </p>
                     <!-- <a href="" class="filled-button">Read More</a> -->
                   </div>

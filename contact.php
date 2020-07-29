@@ -124,16 +124,16 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-phone"></i>
-              <h4>Phone</h4>
-              <p>Feel free to call us for any enquiry <br>during office hours</p>
+              <h4 style="margin-bottom: 22px;">Phone</h4>
+              <p>Feel free to call us for any enquiry <br>during office hours</p><br>
               <a>+91 6360144518</a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-envelope"></i>
-              <h4>Email</h4>
-              <p>Feel free to mail us for <br> any enquiry 24x7</p>
+              <h4 style="margin-bottom: 22px;">Email</h4>
+              <p>Feel free to mail us for <br> any enquiry 24x7</p><br>
               <a>info@virtualcaptive.com</a>
             </div>
           </div>
@@ -141,7 +141,7 @@ https://templatemo.com/tm-545-finance-business
             <div class="contact-item">
               <i class="fa fa-map-marker"></i>
               <h4>Location</h4>
-              <p>The Estate, 8th Floor, Dickenson Road, Bangalore, Karnataka</p>
+              <p>The Estate Building, The Estate, 8th Floor, Dickenson Road, Banglore, Karnataka - 560042</p>
               <a href="https://g.page/The-Estate-Building-4486?share">View on Google Maps</a>
             </div>
           </div>
